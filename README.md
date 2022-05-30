@@ -1,6 +1,10 @@
-# state_management_bloc
+# App State Management Example - Bloc
 
-A new Flutter project.
+This is a basic example using the same code of StateMagementWithSingleton about how we can control our app state using Bloc pattern. This approach is another option if the app complexity is really high. Another good option is using providers.
+
+<p align = "center">
+<img src="/images/example.gif" width="250"> <img src="/images/screen01.png" width="250"> <img src="/images/screen02.png" width="250">
+</p>
 
 ## Getting Started
 
