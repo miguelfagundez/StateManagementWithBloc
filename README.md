@@ -1,6 +1,6 @@
 # App State Management Example - Bloc
 
-This is a basic example using the same code of StateMagementWithSingleton about how we can control our app state using Bloc pattern. This approach is another option if the app complexity is really high. Another good option is using providers.
+This is a basic example using the same code of [App State Management With Singleton](https://github.com/miguelfagundez/StateManagementWithSingleton) about how we can control our app state using Bloc pattern. This approach is another option if the app complexity is really high. Another good option is using providers.
 
 <p align = "center">
 <img src="/images/example.gif" width="250"> <img src="/images/screen01.png" width="250"> <img src="/images/screen02.png" width="250">
